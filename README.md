@@ -8,3 +8,6 @@
 
 
 http://54.225.14.76:8081/usuariosReversos/revertirPalabra/{id}
+
+# link del dockerhub
+https://hub.docker.com/repository/docker/tamagochita/consumer
